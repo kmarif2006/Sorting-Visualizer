@@ -7,10 +7,10 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  },
+ "scripts": {
+  "build": "cd frontend && npm install && npm run build",
+  "start": "serve -s frontend/build"
+},
   "browserslist": {
     "production": [
       ">0.2%",
