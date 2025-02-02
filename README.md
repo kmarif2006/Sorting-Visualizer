@@ -92,21 +92,12 @@ We welcome contributions to improve the Sorting Visualizer! Here's how you can h
    ```
 5. Open a Pull Request
 
-Some areas where you can contribute:
-- Adding new sorting algorithms
-- Improving the visualization
-- Enhancing the UI/UX
-- Fixing bugs
-- Adding new features
-- Improving documentation
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/your-username/sorting-visualizer/issues) page
-2. Open a new issue if your problem hasn't been reported
+
 3. Provide detailed information about your problem
 
 ## Acknowledgments
